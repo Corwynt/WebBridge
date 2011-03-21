@@ -1,0 +1,13 @@
+name: WebBridge
+main: de.minecognix.webbridge.WebBridge
+version: 0.0.1
+website: http://www.minecognix.de
+author: Minecognix
+description: >
+             Simple Description
+commands:
+  test
+    description: Empty test command.
+    usage: |
+           /<command>
+           Example: /
